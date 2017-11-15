@@ -10,7 +10,7 @@ Group size : 1 person
 
 # Minishell1
 
-It is a UNIX program interpreter.
+It is a UNIX command interpreter.
 
 The command lines are simple, no pipe, no redirection or any other advanced. 
 
